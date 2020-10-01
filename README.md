@@ -1,2 +1,2 @@
 # Graph
-Graph Management Library
+Graph Management Library - Version 0.3.0
